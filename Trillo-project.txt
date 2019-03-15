@@ -1,0 +1,72 @@
+﻿TRILLO PROJECT USING ADVANCED CSS.
+
+FLEXBOX
+
+. Frexbox is a new module in CSS3 that makes it easy to align elements to one another
+in different directions and orders.
+
+. The main idea behind flexbox is to give the container the ability to expand 
+and to shrink elements to best use all the available space;
+
+. Flexbox replaces float layouts, using less, and more readable and logical code;
+
+. Flexbox completely changes the way that we build one-dimensional layouts;
+
+. A true revolution in CSS!
+
+CONTAINER
+---------
+
+1. flex-direction: row | row-reverse |column | column-reverse.
+2. flex-wrap: nowrap | wrap | wrap-reverse.
+3. Justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly.
+4. Align-items: stretch | flex-start | flex-end | center | baseline.
+5. align-content: stretch | flex-start | flex-end | center | space-between | space-around.
+
+ITEMS
+-----
+
+1. align-self: auto | stretch | flex-start | flex-end | center | baseline.
+2. order: 0 | <integer>
+3. flex-grow: 0 | <integer>
+4. flex-shrink: 1 | <integer>
+5. flex-basis: auto | <length> 
+
+flex: 0 1 auto | <int> <int> <len>
+
+. Why to use SVG icons vs. font icons;
+. How to find, generate and use SVG sprites in HTML;
+. How to change teh color of an SVG icon in CSS;
+. How to use more advanced flexbox alignment
+techniques, including justify-content, align-items, align and flex.
+
+. How to use scaleY and multiple transtion
+properties with different settings, to create a 
+creative hover effect;
+
+. How and why to use tehe currentColor CSS variable;
+
+. How to use some more advanced flexbox alignment techniques,
+including flex-directio, justify-content and align-items.
+
+WHAT YOU WILL LEARN IN THIS LECTURE.
+
+. How to create an infinite animation;
+. How to use margin: auto with flexbox, and why it's so powerful;
+. Continue to use flexbox properties for easy positioning and alignment.
+
+.COntinue to use flexbox, including flex-wrap to build a multi-column list;
+. How and why to use CSS masks with mask-image and mask-size.
+
+CHALLENGES, ANYONE?
+
+1. Display some kind of user menu when hovering over the username in .user-nav;
+2. Display a message menu when hovering over the chat icon in .user-nav(maybe like facebook);
+3. Display a box with search suggestions as soon as the user start typing in the search field;
+
+4.Create a caption for the . gallery __item with a nice hover effect;
+5. Make the page 100% responsive even for viewport sizes below 500px, maybe even responsive image.
+
+
+
+
